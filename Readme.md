@@ -70,7 +70,7 @@ Depois na área de debug do Visual Studio Code clique no link create a launch.js
 #### Tipos de lojas aceitos:
 ` Caso for necessário adicione o nome da plataforma que deseja integrar ` 
 
-> __sales_types = {1: 'magento1', 2: 'magento2', 3: 'vtex'}
+> __sales_types = {1: 'magento1', 2: 'magento2'}
 
 #### Tipos de algorítmos implementados
 ` Caso for necessário adicione o nome do algoritmo novo que implementar `
